@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+Need to request cors access through console or https://cors-anywhere.herokuapp.com/corsdemo
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
